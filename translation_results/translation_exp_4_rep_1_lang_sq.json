@@ -1,0 +1,11 @@
+{
+    "Experiment ID": 4,
+    "Repetition": 1,
+    "Target Language": "sq",
+    "Avg Response Time": 5.269031286239624,
+    "Median Response Time": 5.205135107040405,
+    "ROUGE-1 F1": 0.3481297324204478,
+    "ROUGE-2 F1": 0.14401517576237693,
+    "ROUGE-L F1": 0.24924489261872462,
+    "BLEU": 0.08319438852365517
+}

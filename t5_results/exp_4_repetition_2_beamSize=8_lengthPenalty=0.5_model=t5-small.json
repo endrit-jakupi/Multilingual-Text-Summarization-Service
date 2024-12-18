@@ -1,0 +1,13 @@
+{
+    "Dataset Size": 10,
+    "Beam Size": 8,
+    "Length Penalty": 0.5,
+    "Model": "t5-small",
+    "Repetition": 2,
+    "Execution Time": 2.3078432083129883,
+    "Median Response Time": 2.2411946058273315,
+    "ROUGE-1 F1": 0.32023882018033334,
+    "ROUGE-2 F1": 0.14281074719326797,
+    "ROUGE-L F1": 0.23757743030540251,
+    "BLEU": 0.13672723042457033
+}

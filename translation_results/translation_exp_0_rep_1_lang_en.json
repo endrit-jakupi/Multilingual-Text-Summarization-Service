@@ -1,0 +1,11 @@
+{
+    "Experiment ID": 0,
+    "Repetition": 1,
+    "Target Language": "en",
+    "Avg Response Time": 3.9847100734710694,
+    "Median Response Time": 3.456903576850891,
+    "ROUGE-1 F1": 0.38118667876070067,
+    "ROUGE-2 F1": 0.1812059493008094,
+    "ROUGE-L F1": 0.257325700666922,
+    "BLEU": 0.14410412794301183
+}
